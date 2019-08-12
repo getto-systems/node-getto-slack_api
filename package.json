@@ -1,6 +1,6 @@
 {
   "name": "getto-slack_api",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "slack_api : getto-psycher vendor plugin",
   "main": "index.js",
   "scripts": {
