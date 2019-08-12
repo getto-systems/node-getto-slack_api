@@ -5,7 +5,7 @@ slack_api : getto-psycher vendor plugin
 status: production ready
 
 ```javascript
-const slack_api = require("getto-slack_api");
+const slack_api = require("getto-slack_api").init();
 
 slack_api.chat.postMessage({
   token: "TOKEN",
@@ -36,7 +36,7 @@ slack_api.reactions.add({
 ## Usage
 
 ```javascript
-const slack_api = require("getto-slack_api");
+const slack_api = require("getto-slack_api").init();
 
 slack_api.chat.postMessage({
   token: "TOKEN",
