@@ -1,0 +1,23 @@
+{
+  "name": "getto-psycher-vendor-slack_api",
+  "version": "0.0.0",
+  "description": "slack_api : getto-psycher vendor plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/getto-systems/node-getto-psycher-vendor-slack_api.git"
+  },
+  "author": "shun@getto.systems",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/getto-systems/node-getto-psycher-vendor-slack_api/issues"
+  },
+  "homepage": "https://github.com/getto-systems/node-getto-psycher-vendor-slack_api#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {}
+}
