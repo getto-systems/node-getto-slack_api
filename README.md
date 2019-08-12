@@ -2,6 +2,8 @@
 
 slack_api : getto-psycher vendor plugin
 
+status: production ready
+
 ```javascript
 const slack_api = require("getto-slack_api");
 
