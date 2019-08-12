@@ -1,9 +1,9 @@
-# node-getto-psycher-vendor-slack_api
+# node-getto-slack_api
 
 slack_api : getto-psycher vendor plugin
 
 ```javascript
-const slack_api = require("getto-psycher-vendor-slack_api");
+const slack_api = require("getto-slack_api");
 
 slack_api.chat.postMessage({
   token: "TOKEN",
@@ -34,7 +34,7 @@ slack_api.reactions.add({
 ## Usage
 
 ```javascript
-const slack_api = require("getto-psycher-vendor-slack_api");
+const slack_api = require("getto-slack_api");
 
 slack_api.chat.postMessage({
   token: "TOKEN",
@@ -53,13 +53,13 @@ slack_api.reactions.add({
 ### Install
 
 ```bash
-npm install --save getto-psycher-vendor-slack_api
+npm install --save getto-slack_api
 ```
 
 
 ## License
 
-node-getto-psycher-vendor-slack_api is licensed under the [MIT](LICENSE) license.
+node-getto-slack_api is licensed under the [MIT](LICENSE) license.
 
 Copyright &copy; since 2019 shun@getto.systems
 
