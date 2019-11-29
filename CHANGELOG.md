@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## Version : 1.0.4
+
+
+
 ## Version : 1.0.3
 
 - fix: notify : See merge request getto-systems-labo/node/getto-slack_api!6
