@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## Version : 1.0.5
+
+- fix: gitlab-ci : See merge request getto-systems-base/labo/node/getto-slack_api!12
+- fix: docker-wrapper : See merge request getto-systems-base/labo/node/getto-slack_api!11
+
+
 ## Version : 1.0.4
 
 
